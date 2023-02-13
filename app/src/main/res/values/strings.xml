@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnatomyProject</string>
+    <string name="roll_label">Rolar</string>
+    <string name="result_text">Botão clicado!</string>
+</resources>
